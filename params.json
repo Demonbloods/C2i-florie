@@ -1,6 +1,124 @@
-{
-  "name": "C2i-florie",
-  "tagline": "",
-  "body": "### Welcome to GitHub Pages.\r\nThis automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.\r\n\r\n### Designer Templates\r\nWe’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.\r\n\r\n### Creating pages manually\r\nIf you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.\r\n\r\n### Authors and Contributors\r\nYou can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.\r\n\r\n### Support or Contact\r\nHaving trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.\r\n",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>C2i by floriedaverton</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">C2i</h1>
+      <h2 class="project-tagline"></h2>
+      <a href="https://github.com/floriedaverton/C2i" class="btn">View on GitHub</a>
+      <a href="https://github.com/floriedaverton/C2i/zipball/master" class="btn">Download .zip</a>
+      <a href="https://github.com/floriedaverton/C2i/tarball/master" class="btn">Download .tar.gz</a>
+    </section>
+
+    <section class="main-content">
+      <p>
+</p> Brucella species 
+
+<p></p>
+<b>  Brucella species </b><br><br><br>
+
+<p>
+<b> I- DESCRIPTION </b> <br><br></p>
+
+<p>Hôte : diverses espèces animales (mammifères domestiques, le plus souvent) <br><br></p>
+
+<p>Organe cible : Les Brucella pénètrent l'organisme par plusieurs voies : cutanée, oculaire, digestive ou respiratoire. La voie de contamination principale est vraisemblablement digestive. Il y a pénétration à travers une muqueuse (conjonctive, pharyngée, buccale, nasale, respiratoire..) puis les bactéries gagnent par voie lymphatique, le premier relais ganglionnaire. Elles se multiplient et disséminent dans tout l'organisme par voie lymphatique et sanguine (bactériémie continue à la phase d'invasion). Ainsi après une période d’incubation variable, de l'ordre d'une dizaine de jours, la brucellose se caractérise dans sa phase aiguë par une septicémie (stade primaire de la fièvre sudora-algique). Ces germes sont phagocytés plus ou moins rapidement par les macrophages ou monocytes, puis détruits avec libération d'antigène et d'endotoxine. Ce sont des parasites intracellulaires facultatifs du système réticulo- histocytaire (splénomégalie, hépatomégalie). <br><br></p>
+
+<p>Types de symptômes : Maladie au cent visages : Fièvre méditerranéenne, fièvre de Malte, fièvre ondulante, mélitococcie. Après 1-4 semaines d'incubation (inoculation conjonctivale, pharyngée, cutanée, diffusion lymphatique vers un ganglion avec une multiplication puis essaimage dans la circulation générale avec septicémie puis métastase(s) <br><br></p>
+
+<p>Maladie vectorielle : OUI <br>
+Vecteur transmise à partir de diverses espèces animales (mammifères domestiques) à l'homme qui est un hôte accidentel, par voie cutanéo-muqueuse (contact avec un animal infecté ou un objet contaminé) ou encore digestive (ingestion d'aliments crus contaminés tels lait, produits lactés, fromages.......) <br><br></p>
+
+<p><b> II- DISTRIBUTION SPACIALE </b><br><br></p>
+
+<p>Epidémiologie : La brucellose a une répartition mondiale avec une prédominance dans le bassin méditerranéen, l’Asie de l’Ouest, le Moyen-Orient, l’Amérique du Sud, l’Amérique centrale et l’Afrique noire. 
+L’OMS estime l’incidence mondiale de la maladie à 500 000 cas par an.
+En France, la brucellose est une maladie à déclaration obligatoire considérée comme maladie professionnelle chez les éleveurs, les vétérinaires, le personnel d’abattoir et de laboratoire, les bouchers et les bergers. La maladie est plus fréquente en milieu rural qu'en milieu urbain. <br><br></p>
+
+<p>Recommandation OMS <br><br></p>
+
+<p><b> III- AGENT ETIOLOGIQUE </b><br><br></p>
+
+<p>Taxonomie :Les bactéries du genre Brucella appartiennent aux alpha 2-Proteobacteria, à l'ordre des Rhizobiaceae et enfin à la famille des Brucellaceae avec les genres Brucella, Mycoplana, Ochrobactrum... <br><br></p>
+
+<p>Description/détermination : Ces bactéries sont de petits coccobacilles à Gram négatif , mesurant 0,6 à 1,5 µm de long et de 0,5 à 0,7 µm de diamètre, non capsulés, non sporulés. A l'état frais, ils sont animés de forts mouvements browniens.
+Ces bactéries sont aérobies strictes, catalase +, oxydase +, NO3 + et uréase +. L'ensemble des autres caractères métaboliques (hydrates de carbone, protéines, acides aminés, acides nucléiques) est négatif: germes non fermentaires mais oxydatifs, VP-, LDC-, ODC-, ADH-, indole -, lactose - <br>
+Les colonies sont translucides, rondes à bords réguliers. La température de croissance optimale est 34-35°C. <br><br></p>
+
+<p>Génome : Plusieurs génomes sont maintenant connus pour les trois principales espèces: B. abortus, B. melitensis et B. suis. Le génome des Brucella est, en fait, constitué de deux réplicons circulaires, avec un ratio GC de 57–58 %. <br><br></p>
+
+<p><b> IV- DIAGNOSTIC </b> <br><br></p>
+
+<p>Il existe deux types de diagnostic les diagnostics directs et indirects <br></p>
+
+<p>-&gt; Diagnostic direct    <br><br>
+— Culture         <br><br>
+L’isolement des Brucella en culture est la technique de référence pour établir un diagnostic certain de brucellose. <br><br>
+La bactérie est le plus souvent isolée a<code>partir du sang par hémoculture. &lt;br&gt;
+L’hémoculture est a</code> peu près constamment positive dans la phase aigue¨, et encore fréquemment dans la phase subaiguë¨ focalisée. La recherche des germes n’est que très exceptionnellement positive dans les brucelloses chroniques. <br><br>
+La recherche des brucelles peut se pratiquer a<code>partir d’autres prélèvements (ganglion, moelle osseuse, liquide ce´phalo-rachidien, pus de foyer...). Ces prélèvements seront ensemences sur gélose au sang et gélose chocolat et incubés a</code> 37°C sous 5a`10% de CO2. La culture est lente (&gt; 48 heures). <br><br></p>
+
+<p>— Diagnostic moléculaire <br><br>
+La PCR est une technique sensible et spécifique réalisée a<code>partir du sang ou du sérum a</code> la phase aigue¨ bacte´rie´mique et a` partir de biopsies tissulaires ou de suppurations au cours des formes focalisées de brucellose. Les principales cibles utilisées sont le gène bcsp31, codant pour une protéine de 31 kDa, et la séquence d’insertion IS711, dont plusieurs copies sont présentes dans le génome. La plupart des techniques sont spécifiques de genre et ne permettent pas de déterminer l’espèce en cause. <br>    </p>
+
+<p>-&gt;Diagnostic indirect : Les réactions sérologiques utilisées dans le diagnostic de la brucellose sont nombreuses, Les IgM apparaissent les premières et sont décelées a` partir du 10e jour après le début clinique de la maladie. Les IgG sont décelables ensuite, et les titres des deux classes (IgM et IgG) s’enlèvent ensemble pendant la phase aigue¨ de la maladie. Le taux d’IgG devient alors prépondérant, surtout dans les phases tardives de l’infection aigue¨. Dans la phase chronique, les IgM disparaissent tandis que les IgG persistent. <br><br></p>
+
+<p>— Se´roagglutination de Wright (SAW) <br><br>
+C’est la méthode de référence de l’OMS. Elle se positive a<code>partir du 10e ou 12e jour de la maladie et se négative rapidement, car elle détecte essentiellement les IgM. Le titre des anticorps décroit en 4 a</code> 8 mois. Le test est parfois négatif dans la brucellose subaiguë¨, et presque toujours dans les brucelloses chroniques et chez les anciens brucellise´s. De ce fait, il n’est pas utilisable pour les diagnostics de brucellose chronique.   <br><br>
+Devant un sérodiagnostic négatif, la recherche d’anticorps bloquants doit entre réalisée en systématique. Les anticorps bloquants sont des IgG ou des IgA qui bloquent les sites antigéniques des bactéries utilisées pour le test, responsables d’une absence d’agglutination. Leur mise en évidence repose sur l’adjonction d’un sérum positif dans les tubes négatifs. L’absence d’agglutination, après incubation, traduit la présence d’anticorps bloquants dans le sérum teste´. Afin d’éviter les faux négatifs lies a` un phénomène de zone, une se´roagglutination avec toutes les dilutions de sérums sera réalisée d’emblée. <br><br>        </p>
+
+<p>— Réaction a` l’antigène au rose Bengale, ou antigène tamponne´ <br><br>
+C’est une réaction d’agglutination rapide sur lame, sensible et spécifique. Elle est réalisée au moyen d’une suspension bactérienne colorée au rose Bengale en milieu acide tamponne´. Elle permet le dépistage de pratiquement tous les cas de brucellose. Bien qu’elle ne mette en évidence que les IgG, elle ne se positive guère plus tardivement que le sérodiagnostic de Wright. Elle est donc très utile dans la phase aigue¨. De plus, elle reste positive très longtemps et demeure ainsi souvent utilisable dans la phase chronique. <br>
+Cette réaction, de par sa simplicité´, sa rapidité´, sa sensibilité´ et sa spécificité´, est devenue la technique de base du sérodiagnostic de brucellose, utilisée aussi bien pour le diagnostic et la surveillance de la brucellose maladie. <br><br></p>
+
+<p>— Réaction de fixation du complément <br><br>
+Elle détecte des immunoglobulines de type IgG. Elle se positive plus tardivement que la se´roagglutination de Wright mais persiste plus longtemps et est donc utile dans le diagnostic des localisations viscérales focalisées. Le titre est maximal au 3e mois et se négative 12 mois après la guérison clinique.
+<br><br>                </p>
+
+<p>— Réaction d’immunofluorescence indirecte <br><br>
+Elle permet la détection et le titrage des IgG et des IgM. C’est une réaction très sensible et plus spécifique que les techniques d’agglutination. Les anticorps ainsi mis en évidence apparaissent a<code>peine quelques jours plus tard que les agglutinines, mais persistent plus longtemps, au-delà</code> de 18 mois. Ces anticorps sont le plus souvent présents dans les brucelloses chroniques.
+<br><br></p>
+
+<p><b> V- THERAPIE </b><br><br>
+Les antibiotiques sont utilisés pour traiter la brucellose. Il est important de mettre en place un traitement rapide pour éviter une infection chronique. Comme Brucella est une bactérie intracellulaire, il faut utiliser des antibiotiques à la fois actifs sur la bactérie et pénétrant dans les cellules. On utilise les tétracyclines et la rifampicine souvent associées à la streptomycine au chloramphénicol et aux sulfamidés
+Le traitement dure environ 6 semaines pour la brucellose en phase septique. En phase focalisée, le traitement dure de 2 à 4 mois car la majorité des bactéries est alors intracellulaire et donc plus difficile d’accès aux molécules. Enfin, pour la brucellose chronique l’antibiothérapie est inutile car la bactérie est devenue inaccessible. On réalise un traitement symptomatique de l’asthénie, des douleurs et éventuellement une désensibilisation par antigène-thérapie et une exérèse des foyers infectieux. 
+<br><br></p>
+
+<p><b> VI- VACCIN </b> <br><br>
+Il existe un vaccin pour les animaux mais il est interdit en France, car elle fausse le dépistage par sérodiagnostic.
+<br><br></p>
+
+<p><b> VII- SOURCES </b><br><br>
+<a href="https://fr.wikipedia.org/wiki/Brucellose#.C3.89pid.C3.A9miologie"> </a><a href="https://fr.wikipedia.org/wiki/Brucellose#.C3.89pid.C3.A9miologie">https://fr.wikipedia.org/wiki/Brucellose#.C3.89pid.C3.A9miologie</a> <br>
+<a href="http://www.microbes-edu.org/professionnel/brucellavf.html"> </a><a href="http://www.microbes-edu.org/professionnel/brucellavf.html">http://www.microbes-edu.org/professionnel/brucellavf.html</a>  <br>
+<a href="http://www.doctissimo.fr/html/sante/encyclopedie/sa_1452_brucellose.htm"> </a><a href="http://www.doctissimo.fr/html/sante/encyclopedie/sa_1452_brucellose.htm">http://www.doctissimo.fr/html/sante/encyclopedie/sa_1452_brucellose.htm</a> <br>
+<a href="http://www.lab-cerba.com/pdf/0127F.pdf"></a><a href="http://www.lab-cerba.com/pdf/0127F.pdf">http://www.lab-cerba.com/pdf/0127F.pdf</a>  <br>
+<a href="http://www.informationhospitaliere.com/dico-536-brucellose.html"></a><a href="http://www.informationhospitaliere.com/dico-536-brucellose.html">http://www.informationhospitaliere.com/dico-536-brucellose.html</a>  <br><br></p>
+
+<p><br><br>
+</p>Découvrez aussi <a> Aspergillus </a> et
+
+<p>Francisella Tularensis <br><br></p>
+
+<p>Retour page d'accueil </p>
+
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/floriedaverton/C2i">C2i</a> is maintained by <a href="https://github.com/floriedaverton">floriedaverton</a>.</span>
+
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the <a href="https://github.com/jasonlong/cayman-theme">Cayman theme</a> by <a href="https://twitter.com/jasonlong">Jason Long</a>.</span>
+      </footer>
+
+    </section>
+
+  
+  </body>
+</html>
